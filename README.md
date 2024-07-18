@@ -1,6 +1,6 @@
 # Housing Price Prediction with Random Forest Model
 
-Welcome to the "Housing This project focuses on predicting housing prices using a Random Forest model, a powerful machine learning algorithm. By analyzing various features of housing data, we aim to provide accurate and reliable predictions.
+This project focuses on predicting housing prices using a Random Forest model, a powerful machine learning algorithm. By analyzing various features of housing data, we aim to provide accurate and reliable predictions.
 
 ## Dataset Overview
 
